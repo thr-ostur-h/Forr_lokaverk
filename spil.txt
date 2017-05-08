@@ -1,0 +1,52 @@
+﻿Sokki frá Brúnastöðum:41,108,7.0,0,17.3,108,144,8.5,Kækur,Hvísl
+Freyðir frá Hesti:46.4,105,7.9,135,17.4,103,118,8.6,Flúðar,03-290
+Vöðvi frá Hafnardal:47,100,8.0,0,17.5,106,112,9.0,Vöðvi,Fura
+Kjói frá Sauðadalsá:48.8,116,8.4,160,17.0,94,111,8.3,Spói,02-238
+Bogi frá Heydalsá:49.9,110,8.3,310,17.3,102,116,8.5,Erpur,01-505
+Falur frá Heydalsá:48.3,106,8.2,26,16.9,95,114,8.3,Goði,98-377
+Borði frá Hesti,42:110,8.0,0,18.0,104,0,9.0,Taumur,05-071
+Bramli frá Hesti:47.5,104,7.8,347,17.2,106,102,8.4,Lóði,01-062
+Kaldi frá Kaldbak:47.8,100,7.9,218,17.1,135,93,8.4,Hnöttur,Hæ-Þrenna
+Vorm frá Holtahólum:47.6,95,7.8,158,17.3,111,122,8.5,Melur,Vordís
+Smyrill frá Smyrlabjörgum:47.8,101,7.9,97,17.2,95,114,8.4,Mosi,Fela
+Prjónn frá Hesti:47.5,110,7.8,370,17.5,105,122,8.6,Þráður,05-110
+Grábotni frá Vogum 2:45,102,7.5,0,17.5,106,139,8.5,Grímur,Grábotna
+Kóngur frá Sauðá:59,108,8.0,0,17.5,105,114,8.5,Lóði,98-872
+Garpur frá Smáhömrum:48.6,106,8.2,101,17.3,98,116,8.5,Dalur,02-299
+Broddi frá Broddanesi 1:57,92,7.5,0,18.0,99,144,9.5,Bogi,04-482
+Frakkson frá Árbæ:49.6,110,8.4,325,17.2,106,117,8.4,Frakkur,Alda
+Þróttur frá Staðarbakka:48.0,106,7.8,222,17.4,105,121,8.5,Spakur,Féleg
+Bifur frá Hesti:45.5,96,7.7,407,17.5,110,115,8.7,Brimill,02-157
+Stáli frá Teigi 1:85,102,8.0,0,17.5,100,130,9.0,Tvistur,Edda
+Fálki frá Borgarfelli:51,103,7.5,0,17.5,102,142,9.0,Mímir,Sjöstjarna
+Kjarkur frá Ytri-Skógum:48,108,7.5,0,17.0,108,0,8.5,Kveikur,Mugga
+Hólmi frá Hesti:45,104,7.5,0,18.0,95,0,9.0,Vaðall,02-118
+Púki frá Bergsstöðum:49.0,111,7.7,403,17.3,114,119,8.5,Ári,03-341
+Mjöður frá Hesti:46.4,102,8.0,210,17.5,103,127,8.6,Bjór,01-086
+Mókollur frá Borgarfelli:49.6,111,7.9,135,16.9,122,102,8.2,Kostur,Gusa
+Gotti frá Bergsstöðum:47.2,100,8.0,182,17.5,102,119,8.6,Gári,03-301
+Hrói frá Geirmundarstöðum:63,107,8.0,0,17.3,108,108,8.5,Kveikur,02-307
+Dökkvi frá Hesti:45.5,102,7.8,157,17.2,105,120,8.5,Bifur,04-390
+Bolli frá Miðdalsgröf:51,109,9.0,0,17.5,111,109,9.0,Kollur,Bolla
+Týr frá Melum 1:38,96,8.0,0,17.5,105,131,8.5,Kútur,Þilja
+Papi frá Bjarnastöðum:45.6,82,8.0,428,17.6,106,140,8.7,Api,Elma
+Tengill frá Brekku:45,94,8.0,0,17.5,97,145,9.0,Lómur,03-372
+At frá Hafrafellstungu:45.6,110,7.9,244,17.5,110,139,8.5,Cat,Heiður
+Gráni frá Stórutjörnum:48.3,111,7.9,381,17.4,105,122,8.6,Stapi,Svala
+Ylur frá Hjarðarfelli:47.4,111,8.0,184,17.2,96,117,8.4,Hylur,00-061
+Neisti frá Heydalsá:47,106,8.5,0,18.5,104,116,9.0,Bogi,04-629
+Logi frá Melum 1:53,109,8.5,0,18.0,101,114,9.0,Þór,Sóley
+Kveikur frá Hesti:49.0,113,7.8,1085,17.4,106,118,8.6,Logi,04-390
+Shrek frá Kollsá:49.5,117,8.1,82,17.3,103,118,8.5,Heydal,01-129
+Cat frá Sveinungsvík:47.7,98,7.6,193,17.5,100,128,8.6,Týr,00-025
+Fannar frá Ytri Skógum:46.4,105,7.9,222,17.4,101,125,8.6,Alki,Rjúpa
+Hvellur frá Borgarfelli:48.8,112,8.0,552,17.3,96,113,8.6,Hylur,Glódís
+Raftur frá Hesti:47.1,106,7.8,1406,17.6,112,122,8.6,Bramli,03-290
+Blossi frá Heydalsá:54,108,8.5,0,18.0,111,113,9.0,Bjarmi,04-622
+Blettur frá Ytri-Skógum:44.9,100,7.9,332,17.2,99,109,8.3,Sjúss,Djásn
+Mundi frá Brúnarstöðum:46,104,7.5,0,16.5,110,126,8.5,Lundi,Dugga
+Hriflon frá Hriflu:49,112,8.0,0,18.0,110,124,8.5,Raftur,03-426
+Skrauti frá Hjarðarfelli:45,111,7.0,0,17.3,98,112,8.5,Magni,05-523
+Krókur frá Staðarbakka:47.5,101,8.0,218,17.5,97,157,8.7,Tumi,Dröfn
+Undri frá Heiðdalsá:49.1,108,8.4,76,17.2,100,109,8.4,Kútur,02-037
+Ás frá Ásgarði:48.8,121,8.1,82,17.2,108,110,8.3,Snoddi,01-120
